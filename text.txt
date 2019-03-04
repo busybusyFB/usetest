@@ -5,6 +5,7 @@ Add a line here
 Part 2
 Add a new branch call 'br1'
 Do one more change to 'br1'
+finish working on br1
 ****************************************
 Part 3
 ****************************************
