@@ -13,3 +13,5 @@ change to master branch
 Part 4
 Hotfit
 ****************************************
+Part 6
+Master is working!
